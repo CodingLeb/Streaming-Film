@@ -1,0 +1,52 @@
+Aplikasi Streaming Film Berbasis Web (PHP)
+Download Source Code Aplikasi Streaming Film Berbasis Web Gratis. Aplikasi ini dibuat 
+menggunakan bahasa pemrograman php dan database yang digunakan aplikasi ini yaitu 
+database mysql. Aplikasi ini dikembangkan dan dibagikan gratis oleh hako-975 dan tentunya 
+gunakanlah source code aplikasi ini dengan baik dan bijak.
+Aplikasi Streaming Film Berbasis Web adalah sebuah sistem informasi streaming film yang 
+dibangun dan digunakan untuk memudakan user untuk menonton film secara online. Aplikasi ini 
+dilengkapi dengan fitur login admin, katalog film, video streaming film, komentar film dan lain 
+sebagainya.
+Source Code Aplikasi ini sudah dilakukan testing dan hasilnya dapat berjalan dengan baik 
+meskipun memang ada beberapa bug yang harus diperbaiki lagi dan disempurnakan lagi dan 
+juga bisa ditambahkan lagi fitur baru yang memang belum ada dalam aplikasi ini agar aplikasi ini 
+menjadi semakin baik.
+Source Code aplikasi ini bisa kamu jadikan sebagai referensi untuk menyusun tugas sekolah, 
+tugas akhir, skripsi yang sedang kamu kerjakan atau bisa juga bisa sebagai bahan belajar 
+tentang bagaiamana cara membuat dan cara kerja aplikasi ini dan berikut beberapa screenshot 
+aplikasi ini ketika dijalankan.
+Sistem Requirement :
+• Bahasa : PHP 5.6
+• Database : MySQL
+• Server : Xampp
+Panduan Instalasi :
+1. Download dan Instal Aplikasi Xampp di Komputer.
+2. Ekstrak file menggunakan aplikasi WinRAR.
+3. Copy folder streaming, lalu paste ke folder htdocs.
+4. Aktifkan Apache dan MySQL pada Xampp.
+5. Buka browser, lalu buka alamat localhost/phpmyadmin.
+6. Buat database baru dengan nama streaming.
+7. Import database aplikasi ke dalam database streaming.
+8. Jalankan project dengan ketik localhost/streaming/admin.
+9. Login dengan username : andri123, password : 12345.
+atau bisa dengan username: admin pw: admin1
+10. Selesai.
+Fitur Aplikasi :
+• Login Admin
+• Halaman FrontEnd
+• Dashboard
+• Katalog Film
+• Pencarian Film
+• Data Genre Film
+• Data Komentar
+• Data Riwayat
+• Data Profil
+• Logout
+• dan lainnya.
+Link Download :
+• [GoogleDrive]
+Terimakasih telah mendownload source code Aplikasi Streaming Film Berbasis Web (PHP) yang 
+dibagikan kali ini. Jangan lupa bagikan source code aplikasi ini ke orang terdekatmu dan 
+kunjungi terus situs ini untuk mendapatkan info source code aplikasi gratis terbaru lainnya ya.
+Mohon perhatiannya source code aplikasi yang dibagikan gratis disini, lebih ditunjukan untuk 
+kebutuhan belajar ataupun sebagai bahan referensi saja. BUKAN UNTUK DIPERJUALBELIKAN!
